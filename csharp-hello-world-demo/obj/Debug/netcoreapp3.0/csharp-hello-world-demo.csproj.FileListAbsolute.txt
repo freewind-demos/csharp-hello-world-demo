@@ -1,0 +1,8 @@
+/Volumes/IntelSSD-202012-1.6T/demos/csharp-hello-world-demo/csharp-hello-world-demo/bin/Debug/netcoreapp3.0/csharp-hello-world-demo
+/Volumes/IntelSSD-202012-1.6T/demos/csharp-hello-world-demo/csharp-hello-world-demo/bin/Debug/netcoreapp3.0/csharp-hello-world-demo.dll
+/Volumes/IntelSSD-202012-1.6T/demos/csharp-hello-world-demo/csharp-hello-world-demo/bin/Debug/netcoreapp3.0/csharp-hello-world-demo.pdb
+/Volumes/IntelSSD-202012-1.6T/demos/csharp-hello-world-demo/csharp-hello-world-demo/obj/Debug/netcoreapp3.0/csharp-hello-world-demo.csprojAssemblyReference.cache
+/Volumes/IntelSSD-202012-1.6T/demos/csharp-hello-world-demo/csharp-hello-world-demo/obj/Debug/netcoreapp3.0/csharp-hello-world-demo.AssemblyInfoInputs.cache
+/Volumes/IntelSSD-202012-1.6T/demos/csharp-hello-world-demo/csharp-hello-world-demo/obj/Debug/netcoreapp3.0/csharp-hello-world-demo.AssemblyInfo.cs
+/Volumes/IntelSSD-202012-1.6T/demos/csharp-hello-world-demo/csharp-hello-world-demo/obj/Debug/netcoreapp3.0/csharp-hello-world-demo.dll
+/Volumes/IntelSSD-202012-1.6T/demos/csharp-hello-world-demo/csharp-hello-world-demo/obj/Debug/netcoreapp3.0/csharp-hello-world-demo.pdb

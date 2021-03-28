@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "csharp-hello-world-demo/1.0.0": {
+        "runtime": {
+          "csharp-hello-world-demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp-hello-world-demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
